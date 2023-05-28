@@ -1,0 +1,31 @@
+Player Name: bao
+
+Round: 2
+
+All Cards: 
+"Force Field" 2 SHIELD 10
+"Charged Blast" 2 ATTACK 14
+"Double Slash" 0 MELEE 10
+"Photon Blast" 1 ATTACK 8
+"Force Field" 2 SHIELD 10
+"Charged Blast" 2 ATTACK 14
+"Reconstruction" 3 HEAL 20
+"Double Slash" 0 MELEE 10
+"Heavy Repair" 2 HEAL 10
+"Barrier" 1 SHIELD 6
+"Barrier" 1 SHIELD 6
+"Recharge+" 0 RECHARGE 2
+"Repair" 1 HEAL 6
+"Overcharged Blast" 3 ATTACK 30
+
+Player Deck: 
+"Recharge" 0 RECHARGE 1
+"Photon Blast" 1 ATTACK 8
+"Recharge" 0 RECHARGE 1
+"Photon Blast" 1 ATTACK 8
+"Barrier" 1 SHIELD 6
+"Slash" 0 MELEE 6
+"Repair" 1 HEAL 6
+"Recharge+" 0 RECHARGE 2
+
+Player HP: 50
